@@ -1,3 +1,6 @@
 <Solution>
+  <Folder Name="/Itens de Solução/">
+    <File Path=".github/workflows/main_customerapp-fernando.yml" />
+  </Folder>
   <Project Path="CustomerApp.API/CustomerApp.API.csproj" />
 </Solution>
